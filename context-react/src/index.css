@@ -1,0 +1,15 @@
+*{
+  margin:0;
+  padding:0;
+  background-color: black;
+  color: white;
+}
+
+.child{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5;
+   height: 100vh;  
+  flex-direction: column;
+}
